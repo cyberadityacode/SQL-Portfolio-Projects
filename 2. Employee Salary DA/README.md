@@ -204,4 +204,3 @@ DELETE FROM Salaries WHERE OvertimePay = 0;
 
 ---
 
-Feel free to let me know if you have any specific requirements or if you'd like additional analysis on any particular aspect of the data.
